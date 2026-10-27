@@ -1,0 +1,11 @@
+{
+  "name": "SpeedControl",
+  "version": "2.0.1",
+  "factorio_version": "2.0",
+  "title": "Speed Control",
+  "author": "Fentus",
+  "contact": "support@fentusgames.com",
+  "homepage": "https://fentusgames.com/",
+  "dependencies": ["base >= 2.0.0"],
+  "description": "Adds buttons and hotkeys to increase or decrease the speed of the game, now with configurable speed increments and limits. Hot Keys: (Minus / Plus / Shift+Minus / Shift+Plus / Alt+Minus / Alt+Plus)."
+}
